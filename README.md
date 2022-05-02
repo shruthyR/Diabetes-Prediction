@@ -1,5 +1,6 @@
 # Diabetes-Prediction
-- INTRODUCTION 
+- INTRODUCTION  - 
+
    Diabetes Is  the fastest growing disease among the people even among the youngsters. In understanding diabetes and how it develops, we need to understand what happens 
    in the body without diabetes. Sugar (glucose) comes from the foods that we eat, specifically carbohydrate foods. Carbohydrate foods provide our body with its main 
    energy source everybody, even those people with diabetes, needs carbohydrates. Carbohydrate foods include bread, cereal, pasta, rice, fruit, dairy products and 
